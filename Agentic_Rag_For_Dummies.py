@@ -28,7 +28,11 @@ def _():
 
 
 @app.cell
-def _():
+def _(dense_embeddings):
+    from langchain_huggingface import HuggingFaceEmbeddings
+    from langchain_qdrant.fastembed_sparse import FastEmbedSparse
+
+    dense_embeddings
     return
 
 
