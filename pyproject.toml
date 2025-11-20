@@ -8,6 +8,7 @@ dependencies = [
     "fastembed>=0.7.3",
     "flashrank>=0.2.10",
     "gradio>=5.49.1",
+    "ipython>=9.7.0",
     "langchain>=1.0.7",
     "langchain-community>=0.4.1",
     "langchain-core>=1.0.5",
@@ -16,5 +17,9 @@ dependencies = [
     "langchain-qdrant>=1.1.0",
     "langgraph>=1.0.3",
     "marimo>=0.17.8",
+    "pymupdf>=1.26.6",
+    "pymupdf-layout>=1.26.6",
+    "pymupdf4llm>=0.2.0",
     "qdrant-client>=1.15.1",
+    "sentence-transformers>=5.1.2",
 ]

@@ -216,3 +216,9 @@ __marimo__/
 .streamlit/secrets.toml
 
 .DS_Store
+
+docs
+markdown/
+qdrant_db/
+parent_store/
+document_child_chunks/
